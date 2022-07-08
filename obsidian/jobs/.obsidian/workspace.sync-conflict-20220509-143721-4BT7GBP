@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "4cf32b4cb52994d5",
+    "id": "d353772624cebe75",
     "type": "split",
     "children": [
       {
-        "id": "3f60f350b5e9a2a4",
+        "id": "dfd9df32f4ed34a9",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -20,15 +20,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7fd5da09884eaf2e",
+    "id": "65eb24f0d79f1ac0",
     "type": "split",
     "children": [
       {
-        "id": "547ca7bb6ad77e11",
+        "id": "0d1d70f30dde602d",
         "type": "tabs",
         "children": [
           {
-            "id": "542c0f959b1c1d94",
+            "id": "d6c7f63e70f243bf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "2c36b12d9592e2d0",
+            "id": "4099bb4df201403d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -51,44 +51,37 @@
             }
           },
           {
-            "id": "a73d44d87800cd5f",
+            "id": "68431a1d25aebe65",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "3e8d17871d9b0048",
+    "id": "242689f41f6824ed",
     "type": "split",
     "children": [
       {
-        "id": "f831d5a8dcea6e84",
+        "id": "5d672a0aada91484",
         "type": "tabs",
         "children": [
           {
-            "id": "7440ce845013752d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "1a8ea665cb64a422",
+            "id": "9487e3787b1eba04",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
                 "file": "§ Home.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -98,7 +91,7 @@
             }
           },
           {
-            "id": "5faeaa4a865fd179",
+            "id": "6977f1a20861325c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -110,18 +103,18 @@
             }
           },
           {
-            "id": "dec5d132230b8343",
+            "id": "d176af586251e354",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true
               }
             }
           },
           {
-            "id": "e0157b17e471162a",
+            "id": "e6f4e24282463911",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -131,24 +124,23 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "3f60f350b5e9a2a4",
+  "active": "dfd9df32f4ed34a9",
   "lastOpenFiles": [
     "§ Home.md",
-    "вакансия.md",
-    "соискатель/язык программирования/основной язык программирования.md",
-    "соискатель/язык программирования/другие языки программирования.md",
-    "работодатель.md",
-    "соискатель/путь соискателя.md",
-    "соискатель/квалификационный тест.md",
-    "соискатель/объекты работы.md",
-    "соискатель/проверка тестов.md",
-    "соискатель/регистрация соискателя.md"
+    "courses/Создание программного продукта и управление его развитием/5. Позиционирование продукта.md",
+    "Win–loss Analytics.md",
+    "Три примера формулировки цели проекта для более четкого определения границ проекта.md",
+    "courses/Создание программного продукта и управление его развитием/12. Этапы развития компании и продукта.md",
+    "courses/Создание программного продукта и управление его развитием/11. Партнерские отношения, каналы дистрибуции и продажи продукта.md",
+    "courses/Создание программного продукта и управление его развитием/10. Запуск ИТ-продукта и проведение маркетинговой кампании.md",
+    "Диффузия инноваций.md",
+    "@Эверетт Роджерс.md",
+    "courses/Создание программного продукта и управление его развитием/3. Пользовательские персоны.md"
   ]
 }

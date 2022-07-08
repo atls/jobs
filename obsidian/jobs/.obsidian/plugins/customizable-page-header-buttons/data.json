@@ -1,0 +1,27 @@
+{
+  "enabledButtons": [
+    {
+      "id": "homepage:open-homepage",
+      "icon": "lucide-home",
+      "name": "Homepage: Open homepage",
+      "showButtons": "both"
+    },
+    {
+      "id": "app:go-back",
+      "icon": "left-arrow-with-tail",
+      "name": "Navigate back",
+      "showButtons": "mobile"
+    },
+    {
+      "id": "app:go-forward",
+      "icon": "right-arrow-with-tail",
+      "name": "Navigate forward",
+      "showButtons": "mobile"
+    }
+  ],
+  "desktop": true,
+  "titleLeft": [],
+  "titleRight": [],
+  "titleCenter": [],
+  "paneRelief": false
+}
