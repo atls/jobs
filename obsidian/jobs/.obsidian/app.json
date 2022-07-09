@@ -1,0 +1,24 @@
+{
+  "readableLineLength": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "defaultViewMode": "preview",
+  "promptDelete": false,
+  "legacyEditor": false,
+  "livePreview": false,
+  "showLineNumber": true,
+  "showIndentGuide": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "attachmentFolderPath": "img",
+  "strictLineBreaks": true,
+  "showFrontmatter": false,
+  "tabSize": 3,
+  "vimMode": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  }
+}

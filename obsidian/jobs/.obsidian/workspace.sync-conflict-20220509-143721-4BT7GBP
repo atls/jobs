@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "d353772624cebe75",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfd9df32f4ed34a9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "§ Home.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65eb24f0d79f1ac0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d1d70f30dde602d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6c7f63e70f243bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4099bb4df201403d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68431a1d25aebe65",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "242689f41f6824ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d672a0aada91484",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9487e3787b1eba04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "§ Home.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6977f1a20861325c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "§ Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d176af586251e354",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e6f4e24282463911",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "§ Home.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "dfd9df32f4ed34a9",
+  "lastOpenFiles": [
+    "§ Home.md",
+    "courses/Создание программного продукта и управление его развитием/5. Позиционирование продукта.md",
+    "Win–loss Analytics.md",
+    "Три примера формулировки цели проекта для более четкого определения границ проекта.md",
+    "courses/Создание программного продукта и управление его развитием/12. Этапы развития компании и продукта.md",
+    "courses/Создание программного продукта и управление его развитием/11. Партнерские отношения, каналы дистрибуции и продажи продукта.md",
+    "courses/Создание программного продукта и управление его развитием/10. Запуск ИТ-продукта и проведение маркетинговой кампании.md",
+    "Диффузия инноваций.md",
+    "@Эверетт Роджерс.md",
+    "courses/Создание программного продукта и управление его развитием/3. Пользовательские персоны.md"
+  ]
+}

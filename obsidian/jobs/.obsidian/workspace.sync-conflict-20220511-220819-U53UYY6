@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "d353772624cebe75",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4b2add2b2d6b985",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "§ Home.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1f08b0442aae2ad",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a8b08f5af9301b08",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "3fe5e3a5118ec140",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "35845bc0a74e71f2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "0c0c3b391483c255",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "80fa963ce41e2791",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c13a972765184e8a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "§ Home.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0006377116cda054",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "§ Home.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "97a57a6094c04040",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "§ Home.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "e4b2add2b2d6b985",
+  "lastOpenFiles": [
+    "§ Home.md",
+    "Japan City Pop.md",
+    "work projects/Unitaet/Unitaet Projects Overview.md",
+    "courses/Введение в SQL/Урок 1. SELECT DISTINCT COUNT.md",
+    "courses/Введение в SQL/Урок 2. Фильтрация запросов.md",
+    "courses/Введение в SQL/Урок 2. Фильтрация запросов.pdf",
+    "courses/Введение в SQL/Урок 1. SELECT DISTINCT COUNT.pdf",
+    "courses/Создание программного продукта и управление его развитием/1. Создание программного продукта и управление его развитием.md",
+    "courses/Создание программного продукта и управление его развитием/10. Запуск ИТ-продукта и проведение маркетинговой кампании.md",
+    "courses/Создание программного продукта и управление его развитием/8. Бизнес-модель и Бизнес-план.md"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "baseFontSize": 18,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "dashboard-ReadLineLength",
+    "dashboard",
+    "alignment"
+  ],
+  "theme": "moonstone",
+  "translucency": false,
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "JetBrains Mono"
+}
