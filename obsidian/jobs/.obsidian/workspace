@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "§ Home.md",
+            "file": "соискатель/стаж работы.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "§ Home.md",
+                "file": "соискатель/стаж работы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "§ Home.md",
+                "file": "соискатель/стаж работы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "§ Home.md"
+                "file": "соискатель/стаж работы.md"
               }
             }
           }
@@ -140,15 +140,15 @@
   },
   "active": "d22fbf77052a7405",
   "lastOpenFiles": [
-    "§ Home.md",
-    "вакансия.md",
-    "работодатель.md",
-    "Atls Jobs Homepage.md",
-    "Qualification Test.md",
-    "Bending Tubes.md",
+    "соискатель/стаж работы.md",
     "соискатель/регистрация соискателя.md",
     "соискатель/путь соискателя.md",
+    "соискатель/проверка тестов.md",
     "соискатель/объекты работы.md",
-    "соискатель/язык программирования/другие языки программирования.md"
+    "соискатель/квалификационный тест.md",
+    "соискатель/язык программирования/основной язык программирования.md",
+    "соискатель/язык программирования/другие языки программирования.md",
+    "User.md",
+    "Task Difficulty.md"
   ]
 }
