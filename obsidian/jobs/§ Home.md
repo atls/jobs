@@ -13,18 +13,26 @@ cssclass: dashboard, max
 - 〽️ Stats
 	-  File Count: `$=dv.pages().length`
 	%% -  Personal recipes: `$=dv.pages('"Family/Recipes"').length`%%
-# Jobs
 
-- Соискатель
+# HR Project
 
-	- [[объекты работы]]
-	- [[проверка тестов]]
-	- [[путь соискателя]]
-	- [[регистрация соискателя]]
-	- [[стаж работы]]
+- General / About
 
-- Работодатель
-	- [[работодатель]]
+	- Миссия
+	- Монетизация
+	- Бизнес процессы
+	- Киллер фича
 
-- Вакансия
-	- [[вакансия]]
+- Акторы
+
+	- Кандидат
+	- Рекрутёр
+
+- Материалы
+
+	- [HR-Tech.figjam](https://www.figma.com/file/SovXmi2VYu2ZlFDutYez58/HR-Tech?node-id=0%3A1)
+	- [HR-Tech, Текст Сорокоумова.notion](https://www.notion.so/asorokoumov/HR-Tech-5ca31f5d32ee4a2d862d773b87a6131f)
+
+- Приложения (Applications)
+
+- Сущности
