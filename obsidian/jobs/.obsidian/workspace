@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "соискатель/стаж работы.md",
+            "file": "Qualification Test.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "соискатель/стаж работы.md",
+                "file": "Qualification Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "соискатель/стаж работы.md",
+                "file": "Qualification Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "соискатель/стаж работы.md"
+                "file": "Qualification Test.md"
               }
             }
           }
@@ -140,15 +140,15 @@
   },
   "active": "d22fbf77052a7405",
   "lastOpenFiles": [
+    "Qualification Test.md",
+    "Mission.md",
+    "Applicant Grade.md",
+    "About.md",
     "соискатель/стаж работы.md",
     "соискатель/регистрация соискателя.md",
     "соискатель/путь соискателя.md",
     "соискатель/проверка тестов.md",
     "соискатель/объекты работы.md",
-    "соискатель/квалификационный тест.md",
-    "соискатель/язык программирования/основной язык программирования.md",
-    "соискатель/язык программирования/другие языки программирования.md",
-    "User.md",
-    "Task Difficulty.md"
+    "соискатель/квалификационный тест.md"
   ]
 }
