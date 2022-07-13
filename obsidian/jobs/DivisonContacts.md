@@ -1,12 +1,6 @@
----
+# DivisonContacts
 
-cssclass: wide
-
----
-
-# OrganizationContacts
-
-Контакты организации
+Контакты подразделения.
 
 ## Закрытая часть
 

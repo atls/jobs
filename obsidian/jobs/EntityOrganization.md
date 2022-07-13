@@ -21,6 +21,7 @@ cssclass: wide
 - [[OrganizationEmployees | Сотрудники организации]]
 - [[OrganizationRating | Рейтинг организации]]
 - [[OrganizationAwards | Награды организации]]
+- [[OrganizationDivision | Подразделение организации]]
 
 ## Действия в организации
 

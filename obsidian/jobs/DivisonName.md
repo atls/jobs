@@ -1,7 +1,7 @@
 ---
 cssclass: wide
 ---
-# OrganizationName
+# DivisonName
 
 Название организации. Текс, длинной максимум в […] символов. 
 

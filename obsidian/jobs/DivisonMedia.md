@@ -1,8 +1,7 @@
 ---
 cssclass: wide
 ---
-
-# OrganizationMedia
+# DivisonMedia
 
 Медиаматериалы организации. 
 
