@@ -141,14 +141,14 @@
   "active": "d64ed1310c07959e",
   "lastOpenFiles": [
     "§ Home.md",
+    "Competence.md",
+    "Qualification.md",
+    "EntityApplicant.md",
+    "ApplicantGrade.md",
+    "BP Applicant Job Search.md",
     "EntityOrganization.md",
     "DivisionRating.md",
     "OrganizationRating.md",
-    "OrganizationDivision.md",
-    "OrganizationDirection.md",
-    "DivisionEmployees.md",
-    "OrganizationEmployees.md",
-    "DivisionTechnologies.md",
-    "OrganizationTechnologies.md"
+    "OrganizationDivision.md"
   ]
 }

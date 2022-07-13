@@ -1,0 +1,8 @@
+---
+cssclass: wide
+---
+
+# Competence
+
+
+

@@ -47,6 +47,8 @@ cssclass: dashboard, max
 	- [[EntityRecruiter]]
 	- [[Test Task]]
 	- [[User]]
+	- [[Competence]]
+	- [[ApplicantGrade]]
 
 - **Бизнес процессы**
 	- [[BP Applicant Job Search | Процесс поиска работы соискателем]]

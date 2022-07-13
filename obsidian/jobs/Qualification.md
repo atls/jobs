@@ -1,0 +1,7 @@
+---
+cssclass: wide
+---
+
+# Qualification
+
+Квалификация. 
