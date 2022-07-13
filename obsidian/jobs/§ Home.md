@@ -25,7 +25,7 @@ cssclass: dashboard, max
 
 - **Акторы**
 
-	- АкторСоискатель
+	- [[ActorApplicant | АкторСоискатель]]
 	- АкторРаботодатель
 	- АкторАдмин
 	- АкторЭксперт
@@ -36,19 +36,15 @@ cssclass: dashboard, max
 	- [HR-Tech, Текст Сорокоумова.notion](https://www.notion.so/asorokoumov/HR-Tech-5ca31f5d32ee4a2d862d773b87a6131f)
 
 - **Приложения (Applications)**
-	- Applicant App
-		- ЛК Соискателя
-			- Дашборд
-			- Настройки
-			- Платёжная информация
-	- Employer App
+	- [[ Applicant App]]
+	- [[Employer App]]
 
 - **Сущности**
-	- [[Vacancy | Вакансия]]
-	- [[Applicant | Соискатель]]
-	- [[Organization | Организация]]
-	- [[Recruiter | Рекрутёр]]
-	- [[Test Task | Тестовое задание]]
+	- [[EntityVacancy]]
+	- [[EntityApplicant]]
+	- [[EntityOrganization]]
+	- [[EntityRecruiter]]
+	- [[Test Task]]
 	- [[User]]
 
 - **Бизнес процессы**
