@@ -1,4 +1,4 @@
 # Сложность тестового задания
 
 Сложность тестового задания зависит от: 
-- [[ Applicant Grade | Грейда]] [[EntityApplicant | соискателя]]
+- [[ ApplicantGrade | Грейда]] [[EntityApplicant | соискателя]]

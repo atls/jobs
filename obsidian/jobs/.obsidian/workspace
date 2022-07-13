@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "§ Home.md",
+            "file": "EntityOrganization.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "§ Home.md",
+                "file": "EntityOrganization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "§ Home.md",
+                "file": "EntityOrganization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "§ Home.md"
+                "file": "EntityOrganization.md"
               }
             }
           }
@@ -140,15 +140,15 @@
   },
   "active": "79094c0d0c5fccf7",
   "lastOpenFiles": [
-    "§ Home.md",
-    "Бизнес процессы.md",
-    "BP Applicant Job Search.md",
-    "Applicant App.md",
-    "Test Task.md",
-    "EntityRecruiter.md",
     "EntityOrganization.md",
+    "§ Home.md",
+    "OrganizationVacancys.md",
+    "OrganizationName.md",
+    "OrganizationDescription.md",
+    "OrganizationMedia.md",
     "EntityApplicant.md",
-    "EntityVacancy.md",
-    "ActorApplicant.md"
+    "OrganizationRating.md",
+    "OrganizationEmployees.md",
+    "BP Applicant Job Search.md"
   ]
 }
