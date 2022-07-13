@@ -44,7 +44,6 @@ cssclass: dashboard, max
 	- [[EntityVacancy]]
 	- [[EntityApplicant]]
 	- [[EntityOrganization]]
-		- [[OrganizationDivision]]
 	- [[EntityRecruiter]]
 	- [[Test Task]]
 	- [[User]]
