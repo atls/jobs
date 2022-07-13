@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EntityOrganization.md",
+            "file": "§ Home.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EntityOrganization.md",
+                "file": "§ Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EntityOrganization.md",
+                "file": "§ Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EntityOrganization.md"
+                "file": "§ Home.md"
               }
             }
           }
@@ -140,8 +140,8 @@
   },
   "active": "d64ed1310c07959e",
   "lastOpenFiles": [
-    "EntityOrganization.md",
     "§ Home.md",
+    "EntityOrganization.md",
     "DivisionRating.md",
     "OrganizationRating.md",
     "OrganizationDivision.md",
