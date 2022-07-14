@@ -3,6 +3,7 @@ cssclass: wide
 alias: квалификация
 ---
 
+#Finishup 
 # Qualification
 
 Квалификация. 
