@@ -1,6 +1,6 @@
 ---
 cssclass: wide
-alias: Соискатель
+alias: cоискатель
 ---
 
 #Finishup 

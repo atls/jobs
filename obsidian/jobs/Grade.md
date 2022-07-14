@@ -8,17 +8,15 @@ alias: грейд, грэйд
 
 В системе есть пять грейдов: 
 
-- [[Intern]]
-- [[Junior]]
-- [[Middle]]
-- [[Senior]]
-- [[Lead]]
+- Intern
+- Junior
+- Middle
+- Senior
+- Lead
 
 >[!warning] Для каждого [[Specialist|специалиста]] набор умений для грейда — свой.
 > То есть набор [[Skill|умений]] для Junior [[SpecialistDeveloperTypeScript|TypeScript специалиста]] будет отличаться от набора умений Junior [[SpecialistDeveloperPHP | PHP специалиста]]. 
 >
 >**Просто потому что для каждого специалиста требования разные!** 
-
-
 
 
