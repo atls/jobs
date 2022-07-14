@@ -37,27 +37,35 @@ cssclass: dashboard, max
 	- [HR-Tech, Текст Сорокоумова.notion](https://www.notion.so/asorokoumov/HR-Tech-5ca31f5d32ee4a2d862d773b87a6131f)
 
 - **Приложения (Applications)**
-	- [[ Applicant App]]
-	- [[Employer App]]
+	- [[HR Applicant App]]
+	- [[HR Employer App]]
 
 - **Сущности**
-	- [[EntityVacancy]]
-	- [[EntityApplicant]]
-	- [[EntityOrganization]]
-	- [[EntityRecruiter]]
-	- [[Test Task]]
+	- [[Applicant]]
+	- [[ApplicantProfile]]
+	- [[Grade]]
+	- [[InfoСollector]]
+	- [[Organization]]
+	- [[Recruiter]]
+	- [[Skill]]
+	- [[Specialist]]
+	- [[TestTask]]
 	- [[User]]
-	- [[Competence]]
-	- [[ApplicantGrade]]
+	- [[Vacancy]]
 
 - **Бизнес процессы**
 	- [[BP Applicant Job Search | Процесс поиска работы соискателем]]
 
+- **Не бизнес процессы**
+
+
 - **Не знаю куда**
 	- Видеозапись о себе (Эссе)
-	- [[Qualification Test]]
+	- [[QualificationTest]]
 	- Сравнение ожидаемой зарплаты соискателя с «рыночной стоимостью квалификации»
 	- Рекомендация подходящего работодателя
 	- Действия: отправить отклик на действующую и подходящую вакансию работодателя
 	- Сборщик информации (Аля Typeform) [[Info collector]]
 	- Верхняя и нижнии границы рекоммендаций по различным параметрам вакансии, пример Cian.ru
+	- Продумать практики, отделить скиллы от практик
+	- Подключение гос услуг

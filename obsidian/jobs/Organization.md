@@ -1,5 +1,6 @@
 ---
 cssclass: wide
+alias: организация, компания
 ---
 
 #Finishup 
@@ -22,6 +23,3 @@ cssclass: wide
 - [[OrganizationRating | Рейтинг организации]]
 - [[OrganizationAwards | Награды организации]]
 - [[OrganizationDivision | Подразделение организации]]
-
-## Действия в организации
-

@@ -1,4 +1,4 @@
-# Applicant App
+# HR Applicant App
 - ЛК Соискателя
 	- Дашборд
 	- Настройки

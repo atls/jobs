@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d64ed1310c07959e",
+        "id": "fc89764e05e96265",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -138,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d64ed1310c07959e",
+  "active": "fc89764e05e96265",
   "lastOpenFiles": [
     "§ Home.md",
-    "Competence.md",
-    "Qualification.md",
-    "EntityApplicant.md",
-    "ApplicantGrade.md",
-    "BP Applicant Job Search.md",
-    "EntityOrganization.md",
-    "DivisionRating.md",
-    "OrganizationRating.md",
-    "OrganizationDivision.md"
+    "About.md",
+    "actors/ActorApplicant.md",
+    "ApplicantProfile.md",
+    "Applicant.md",
+    "businessprocess/Бизнес процессы.md",
+    "QualificationTest.md",
+    "HR Employer App.md",
+    "HR Applicant App.md",
+    "Organization.md"
   ]
 }
