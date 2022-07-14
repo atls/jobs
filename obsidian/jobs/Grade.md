@@ -1,6 +1,6 @@
 ---
 cssclass: wide
-alias: Грейд, Грэйд
+alias: грейд, грэйд
 ---
 # Grade
 
@@ -13,4 +13,12 @@ alias: Грейд, Грэйд
 - [[Middle]]
 - [[Senior]]
 - [[Lead]]
+
+>[!warning] Для каждого [[Specialist|специалиста]] набор умений для грейда — свой.
+> То есть набор [[Skill|умений]] для Junior [[SpecialistDeveloperTypeScript|TypeScript специалиста]] будет отличаться от набора умений Junior [[SpecialistDeveloperPHP | PHP специалиста]]. 
+>
+>**Просто потому что для каждого специалиста требования разные!** 
+
+
+
 

@@ -27,7 +27,7 @@ cssclass: dashboard, max
 - **Акторы**
 
 	- [[ActorApplicant | АкторСоискатель]]
-	- АкторРаботодатель
+	- [[ActorEmployer | АкторРаботодатель]]
 	- АкторАдмин
 	- АкторЭксперт
 
@@ -41,14 +41,16 @@ cssclass: dashboard, max
 	- [[HR Employer App]]
 
 - **Сущности**
-	- [[Applicant]]
+	- Основные
+		- [[Applicant]]
+		- [[Specialist]]
+	- Прочие
 	- [[ApplicantProfile]]
 	- [[Grade]]
 	- [[InfoСollector]]
 	- [[Organization]]
-	- [[Recruiter]]
+	- [[Employer]]
 	- [[Skill]]
-	- [[Specialist]]
 	- [[TestTask]]
 	- [[User]]
 	- [[Vacancy]]

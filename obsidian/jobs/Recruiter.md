@@ -1,9 +1,0 @@
----
-
-cssclass: wide
-
----
-
-#Finishup 
-
-# Рекрутёр

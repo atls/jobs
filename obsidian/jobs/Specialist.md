@@ -1,6 +1,6 @@
 ---
 cssclass: wide
-alias: Специалист
+alias: специалист
 ---
 
 # Specialist

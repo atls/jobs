@@ -13,7 +13,7 @@ Cодержит в себе подспециальности:
 - Java Developer
 - JS Developer
 - Kotlin Developer
-- PHP Developer
+- [[SpecialistDeveloperPHP | PHP Developer]]
 - Swift Developer
 - [[SpecialistDeveloperTypeScript | TypeScript Developer]]
 
