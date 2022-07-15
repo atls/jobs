@@ -2,6 +2,9 @@
 cssclass: wide
 alias: TypeScript Специалист, ТайпСкрипт Специалист
 ---
+
+#Finishup 
+
 # SpecialistDeveloperTypeScript
 
 Специалист TypeScript Developer. 

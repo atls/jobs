@@ -1,6 +1,6 @@
 ---
 cssclass: wide
-alias: экспертиза
+alias: экспертиза, уровень умения
 ---
 
 # SkillExpertise
