@@ -1,6 +1,6 @@
 ---
 cssclass: wide
-aliases: Предпочтения в работе
+aliases: Предпочтения в работе, формат работы
 ---
 
 # ProfilePreferences
