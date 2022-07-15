@@ -1,5 +1,6 @@
 ---
 cssclass: wide
+alias: сотрудники организации
 ---
 # OrganizationEmployees
 

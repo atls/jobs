@@ -1,5 +1,6 @@
 ---
 cssclass: wide
+alias: рейтинг организации
 ---
 # OrganizationRating
 

@@ -1,5 +1,6 @@
 ---
 cssclass: wide
+alias: название организации
 ---
 # OrganizationName
 

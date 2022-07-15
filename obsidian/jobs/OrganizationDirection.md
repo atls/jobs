@@ -1,5 +1,6 @@
 ---
 cssclass: wide
+alias: направление организации
 ---
 # OrganizationDirection
 

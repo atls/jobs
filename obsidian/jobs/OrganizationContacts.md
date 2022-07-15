@@ -1,7 +1,6 @@
 ---
-
 cssclass: wide
-
+alias: контакты организации
 ---
 
 # OrganizationContacts

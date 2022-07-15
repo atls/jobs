@@ -1,6 +1,7 @@
 
 ---
 cssclass: wide
+alias: размер организации
 ---
 # OrganizationSize
 
