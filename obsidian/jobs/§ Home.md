@@ -52,7 +52,7 @@ cssclass: dashboard, max
 	- [[Organization]]
 	- [[Employer]]
 	- [[Skill]]
-	- [[TestTask]]
+	- [[QualificationTestTask]]
 	- [[User]]
 	- [[Vacancy]]
 
