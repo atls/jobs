@@ -23,3 +23,4 @@ alias: организация, компания
 - [[OrganizationRating | Рейтинг организации]]
 - [[OrganizationAwards | Награды организации]]
 - [[OrganizationDivision | Подразделение организации]]
+- [[VacancyBonus| Бонусы Организации]]

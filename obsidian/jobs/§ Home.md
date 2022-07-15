@@ -16,6 +16,8 @@ cssclass: dashboard, max
 
 # HR Project
 
+Здесь будет описание того, как читать данную вики.
+
 - **General / [[About | О проекте]]**
 
 	- [[Mission | Миссия]]
@@ -35,6 +37,7 @@ cssclass: dashboard, max
 
 	- [HR-Tech.figjam](https://www.figma.com/file/SovXmi2VYu2ZlFDutYez58/HR-Tech?node-id=0%3A1)
 	- [HR-Tech, Текст Сорокоумова.notion](https://www.notion.so/asorokoumov/HR-Tech-5ca31f5d32ee4a2d862d773b87a6131f)
+	- [Business Processes.figjam](https://www.figma.com/file/R5Bnq5O9zagXakYzi5qxPZ/Business-Processes?node-id=0%3A1)
 
 - **Приложения (Applications)**
 	- [[HR Applicant App]]
@@ -43,27 +46,40 @@ cssclass: dashboard, max
 - **Сущности**
 	- Основные
 		- [[Applicant]]
+		- [[Grade]]
+		- [[Organization]]
+		- [[Qualification]]
+		- [[Skill]]
 		- [[Specialist]]
 		- [[Vacancy]]
 	- Прочие
-	- [[ApplicantProfile]]
-	- [[Grade]]
-	- [[InfoСollector]]
-	- [[Organization]]
-	- [[Employer]]
-	- [[Skill]]
-	- [[QualificationTestTask]]
-	- [[User]]
-	- [[Vacancy]]
+		- [[ApplicantProfile]]
+		- [[InfoСollector]]
+		- [[Employer]]
+		- [[QualificationTestTask]]
 
 - **Бизнес процессы**
 	- [[BP Applicant Job Search | Процесс поиска работы соискателем]]
 	- [[BP Employer Job Closing | Процесс закрытия вакансии работодателем]]
 
 - **Не бизнес процессы**
-	- Процесс собеседования
-	- Процесс заполнения карточки организации
-	- Процесс создания подразделения
+	- **Со стороны Соискателя**
+		- Процесс собеседования
+	- **Со стороны Работодателя**
+		- Процесс создания организации
+		- Процесс заполнения карточки организации
+		- Процесс создания подразделения
+		- Процесс добавления существующего сотрудника в компанию
+		---
+		- Процесс создания и управления вакансией
+		---
+		- Процесс собеседования соискателя
+		- Процесс найма соискателей
+
+	
+	
+	
+	
 
 - **Не знаю куда**
 	- Сравнение ожидаемой зарплаты соискателя с «рыночной стоимостью квалификации»
@@ -73,3 +89,4 @@ cssclass: dashboard, max
 	- Верхняя и нижние границы рекомендаций по различным параметрам вакансии, пример Cian.ru
 	- Продумать практики, отделить скиллы от практик
 	- Подключение гос услуг
+	- Сценарий когда соискатель создаёт себе учетку и уже работает в какой-то компании, которая присутсвует на площадке
