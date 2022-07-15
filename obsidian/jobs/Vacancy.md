@@ -21,9 +21,9 @@ alias: вакансия
 - [[VacancyOwner | Владелец вакансии]]
 - [[VacancyEmploymentType | Тип занятости]]
 - [[VacancyWorkFormat | Формат работы]]
-- Видео эссе: да / нет
+- [[ProfileVideoEssay | Видео Эссе]]: да / нет
 - [[VacancyBonus | Бонусы]]
-- [[VacancyAlreadyworkinon | Количество людей уже работающих на данной вакансии]]
-- Задачи
-- Будет плюсом
-- Команда
+- [[VacancyAlreadyWorkinOn | Количество людей уже работающих на данной вакансии]]
+- [[VacancyTasks | Задачи]]
+- [[VacancyPreferences | Предпочтения]]
+- [[VacancyTeam | Команда]]

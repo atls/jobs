@@ -14,6 +14,7 @@ tag: Done
 - [[ProfilePersonal | Личная информация]]
 - [[ProfileWorkExperience | Опыт работы]]
 - [[ProfilePreferences | Предпочтения в работе]]
+- [[ProfileVideoEssay | Видеоэссе]]
 - [[ProfileCulture |  Культура]]
 - [[ProfilePsychotype | Психотип]]
 

@@ -44,6 +44,7 @@ cssclass: dashboard, max
 	- Основные
 		- [[Applicant]]
 		- [[Specialist]]
+		- [[Vacancy]]
 	- Прочие
 	- [[ApplicantProfile]]
 	- [[Grade]]
