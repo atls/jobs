@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "05c79cfc028f4e26",
+        "id": "83cee3672ce11b79",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "businessprocess/BP Applicant Job Search.md",
+            "file": "Organization.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232
+    "width": 239.01364135742188
   },
   "right": {
     "id": "3e8d17871d9b0048",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "businessprocess/BP Applicant Job Search.md",
+                "file": "Organization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "businessprocess/BP Applicant Job Search.md",
+                "file": "Organization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "businessprocess/BP Applicant Job Search.md"
+                "file": "Organization.md"
               }
             }
           }
@@ -138,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05c79cfc028f4e26",
+  "active": "83cee3672ce11b79",
   "lastOpenFiles": [
-    "ProfileWorkExperience.md",
+    "businessprocess/BP Employer Job Closing.md",
     "businessprocess/BP Applicant Job Search.md",
-    "QualificationTestTask.md",
-    "ApplicantProfile.md",
+    "actors/ActorEmployer.md",
+    "actors/ActorApplicant.md",
+    "businessprocess/Бизнес процессы.md",
+    "flows/Flow Job Search.md",
     "§ Home.md",
-    "Процесс закрытия вакансии работодателем.md",
-    "Organization.md",
-    "OrganizationDivision.md",
-    "DivisonName.md",
-    "OrganizationRating.md"
+    "ProfileWorkExperience.md",
+    "QualificationTestTask.md",
+    "ApplicantProfile.md"
   ]
 }
