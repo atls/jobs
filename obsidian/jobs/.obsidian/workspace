@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3cd6519bdf46b262",
+        "id": "00ef218d06e09fcf",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -138,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3cd6519bdf46b262",
+  "active": "00ef218d06e09fcf",
   "lastOpenFiles": [
-    "Organization.md",
-    "VacancyBonus.md",
-    "§ Home.md",
-    "businessprocess/BP Employer Job Closing.md",
     "Vacancy.md",
-    "OrganizationName.md",
-    "businessprocess/BP Applicant Job Search.md",
-    "actors/ActorEmployer.md",
-    "actors/ActorApplicant.md",
-    "businessprocess/Бизнес процессы.md"
+    "§ Home.md",
+    "Specialist.md",
+    "SpecialistDeveloper.md",
+    "DivisionTechnologies.md",
+    "DivisionRating.md",
+    "DivisionEmployees.md",
+    "DivisionDirection.md",
+    "DivisionDescription.md",
+    "ApplicantProfile.md"
   ]
 }

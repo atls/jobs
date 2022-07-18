@@ -34,10 +34,13 @@ cssclass: dashboard, max
 	- АкторЭксперт
 
 - **Материалы**
-
-	- [HR-Tech.figjam](https://www.figma.com/file/SovXmi2VYu2ZlFDutYez58/HR-Tech?node-id=0%3A1)
-	- [HR-Tech, Текст Сорокоумова.notion](https://www.notion.so/asorokoumov/HR-Tech-5ca31f5d32ee4a2d862d773b87a6131f)
-	- [Business Processes.figjam](https://www.figma.com/file/R5Bnq5O9zagXakYzi5qxPZ/Business-Processes?node-id=0%3A1)
+	- Figma
+		- [HR-Tech.figjam](https://www.figma.com/file/SovXmi2VYu2ZlFDutYez58/HR-Tech?node-id=0%3A1)
+		- [Business Processes.figjam](https://www.figma.com/file/R5Bnq5O9zagXakYzi5qxPZ/Business-Processes?node-id=0%3A1)
+		- [Non-Business Processes](https://www.figma.com/file/spPFlEASEt0Au1zjF9vx1d/Non-Business-Processes?node-id=0%3A1)
+		- [Atlantis Jobs Presentation — Final](https://www.figma.com/file/QBVZldMh0VUQYcJogl1vRJ/Jobs?node-id=20%3A18)
+	- Notion
+		- [HR-Tech, Текст Сорокоумова.notion](https://www.notion.so/asorokoumov/HR-Tech-5ca31f5d32ee4a2d862d773b87a6131f)
 
 - **Приложения (Applications)**
 	- [[HR Applicant App]]
@@ -90,3 +93,4 @@ cssclass: dashboard, max
 	- Продумать практики, отделить скиллы от практик
 	- Подключение гос услуг
 	- Сценарий когда соискатель создаёт себе учетку и уже работает в какой-то компании, которая присутсвует на площадке
+	- Может быть мы будем со стороны соискателя давать преимущество в виде того, чтобы через API размещать свои вакансии
