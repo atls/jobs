@@ -27,7 +27,24 @@ alias: вакансия
 - [[VacancyTasks | Задачи]]
 - [[VacancyPreferences | Предпочтения]]
 - [[VacancyTeam | Команда]]
+- [[VacancyIndustry | Отрасль]]
 
 ## Статусы вакансии
 
+- Draft
+- In Work (Активно)
+- Closed (В архиве)
+
+| Status | Description |
+| ------ | ----------- |
+| Draft  |             |
+
 ## Действия которые можно совершать с вакансией
+
+| Action        | Description                    |
+| ------------- | ------------------------------ |
+| create        | Создать                        |
+| move to draft | Перенести в черновики          |
+| publish       | Опубликовать                   |
+| close         | Закрыть. Можно указать причину | 
+
