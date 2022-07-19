@@ -31,26 +31,8 @@ alias: вакансия
 - [[VacancyAlreadyWorkinOn | Количество людей уже работающих на данной вакансии]]
 - [[VacancyTasks | Задачи]]
 - [[VacancyPreferences | Предпочтения]]
-- [[VacancyTeam | Команда]]
+- [[OrganizationTeam | Команда]]
 
-| Параметр                   | Тип                        | Описание          |
-| -------------------------- |:-------------------------- | ----------------- |
-| Дата публикации вакансии   | [[VacancyPublicationDate]] |                   |
-| Дата изменения вакансии    | [[VacancyUpdateDate]]      |                   |
-| VacancyIndustry            | [[GeneralIndustry]]        | Отрасль           |
-| VacancyRole                | [[GeneralRole]]            | Роль              |
-| VacancyTitle               | [[VacancyTitle]]           | Название вакансии |
-| VacancyGrade               | [[GeneralGrade]]           | Грейд вакансии    |
-| Область                    |                            |                   |
-| Язык                       |                            |                   |
-| Скиллы                     | [[GeneralSkill]]           |                   |
-| Зарплата                   | [[GeneralSalary]]          |                   |
-| Тип занятости              | [[GeneralEmploymentType]]  |                   |
-| Формат работы              | [[GeneralWorkFormat]]      |                   |
-| Готовность к командировкам | [[GeneralReadyToTrip]]     |                   |
-| Описание                   | [[VacancyDescription]]     |                   |
-| Бонусы                     | [[OrganizationBonus]]      |                   |
-| Команда                    |                            |                   |
 
 
 ## Статусы вакансии

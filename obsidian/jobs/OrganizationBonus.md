@@ -4,6 +4,6 @@ cssclass: wide
 alias: бонусы компании
 ---
 
-# VacancyBonus
+# OrganizationBonus
 
 Подтягивается из организации / подразделения. 

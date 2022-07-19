@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5bccbd2d62c836f7",
+        "id": "f385a7639b4f45cb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Organization.md",
+            "file": "§ Home.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organization.md",
+                "file": "§ Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organization.md",
+                "file": "§ Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organization.md"
+                "file": "§ Home.md"
               }
             }
           }
@@ -138,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5bccbd2d62c836f7",
+  "active": "f385a7639b4f45cb",
   "lastOpenFiles": [
-    "OrganizationDirection.md",
-    "Organization.md",
-    "§ Home.md",
-    "GeneralSkill.md",
-    "Applicant.md",
+    "Specialist.md",
+    "SpecialistDeveloper.md",
     "SpecialistDeveloperTypeScript.md",
-    "images/SpecialistsTSDev.png",
-    "Vacancy.md",
-    "VacancyExample.md",
-    "GeneralSalary.md"
+    "Organization.md",
+    "OrganizationName.md",
+    "OrganizationMedia.md",
+    "§ Home.md",
+    "OrganizationTeam.md",
+    "ApplicantProfile.md",
+    "ProfileWorkExperience.md"
   ]
 }
