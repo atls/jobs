@@ -27,7 +27,7 @@ alias: организация, компания
 	- [[OrganizationSize | Размер организации]]
 	- [[OrganizationEmployees | Сотрудники организации]]
 	- [[OrganizationDivision | Подразделение организации]]
-	- [[OrganizationTeam]]
+	- [[OrganizationTeam | Команда]]
 
 - **Вакансии организации**
 

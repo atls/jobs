@@ -30,8 +30,9 @@ alias: вакансия
 - [[OrganizationBonus | Бонусы]]
 - [[VacancyAlreadyWorkinOn | Количество людей уже работающих на данной вакансии]]
 - [[VacancyTasks | Задачи]]
-- [[VacancyPreferences | Предпочтения]]
+- [[VacancyPreferences | Предпочтения вакансии]]
 - [[OrganizationTeam | Команда]]
+- [[GeneralDateOfReadyToWork | Дата готовности выхода на работу]]
 
 
 

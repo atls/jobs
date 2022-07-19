@@ -1,4 +1,13 @@
+---
+cssclass: wide
+---
+
 # DivisionDirection
+
+>[!warning] DEPRECATED
+
+
+#TODEL
 
 Направление компании. 
 

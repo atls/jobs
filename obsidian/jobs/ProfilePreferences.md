@@ -16,8 +16,9 @@ aliases: Предпочтения в работе, формат работы
 - [[GeneralWorkFormat|Формат работы]]
 - [[GeneralDateOfReadyToWork|Дата готовности выхода на работу]]
 - [[GeneralReadyToTrip|Готовность к командировкам]]
-- [[GeneralCityToWork|Город работы]]
 - [[GeneralEmploymentType|Тип занятости]]
+- [[GeneralReadyToRelocate | Готовность к релокации]]
+- [[GeneralIndustry | Желаемые отрасли]]
 
 ## Поля которые имеют низкий приоритет или сомнительный характер 
 

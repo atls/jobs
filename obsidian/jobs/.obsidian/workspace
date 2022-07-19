@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Organization.md",
+            "file": "ApplicantProfile.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organization.md",
+                "file": "ApplicantProfile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organization.md",
+                "file": "ApplicantProfile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organization.md"
+                "file": "ApplicantProfile.md"
               }
             }
           }
@@ -140,15 +140,15 @@
   },
   "active": "f385a7639b4f45cb",
   "lastOpenFiles": [
-    "§ Home.md",
-    "GeneralSkill.md",
-    "Employer.md",
-    "QualificationTest.md",
+    "ProfileWorkExperience.md",
+    "Vacancy.md",
+    "VacancyPreferences.md",
+    "GeneralDateOfReadyToWork.md",
+    "GeneralRole.md",
+    "ApplicantProfile.md",
     "Specialist.md",
     "SpecialistDeveloper.md",
-    "SpecialistDeveloperTypeScript.md",
-    "Organization.md",
-    "OrganizationName.md",
-    "OrganizationMedia.md"
+    "§ Home.md",
+    "SpecialistDeveloperTypeScript.md"
   ]
 }
