@@ -3,9 +3,11 @@ cssclass: wide
 alias: тип занятости
 ---
 
-# VacancyEmploymentType
+# GeneralEmploymentType
 
-Тип занятости вакансии. 
+Тип занятости. 
+
+Параметры: 
 
 - Полный рабочий день
 - Почасовая

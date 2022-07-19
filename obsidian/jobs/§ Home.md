@@ -49,10 +49,10 @@ cssclass: dashboard, max
 - **Сущности**
 	- Основные
 		- [[Applicant]]
-		- [[Grade]]
+		- [[GeneralGrade]]
 		- [[Organization]]
 		- [[Qualification]]
-		- [[Skill]]
+		- [[GeneralSkill]]
 		- [[Specialist]]
 		- [[Vacancy]]
 	- Прочие

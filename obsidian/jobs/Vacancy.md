@@ -11,23 +11,47 @@ alias: вакансия
 
 ## Параметры вакансии
 
-- [[VacancyTitle | Название вакансии]]
 - [[VacancyPublicationDate | Дата публикации вакансии]]
-- [[VacancySalary | Заработная плата]]
-- [[Skill | Умения]]
-- [[Grade | Грейд]]
+- [[VacancyUpdateDate | Дата изменения вакансии]]
+- [[VacancySuitableApplicants | Подходящие кандидаты]]
+- [[VacancyRespondedApplicants | Откликнувшиеся кандидаты]]
+- [[GeneralIndustry | Отрасль]]
+- [[GeneralRole | Роль]]
+- [[VacancyTitle | Название вакансии]]
+- [[GeneralGrade | Грейд]]
+- [[GeneralSalary | Зарплата]]
+- [[GeneralSkill | Умения]]
 - [[VacancyCurator | Куратор вакансии]]
 - [[VacancyDescription | Описание]]
 - [[VacancyOwner | Владелец вакансии]]
-- [[VacancyEmploymentType | Тип занятости]]
-- [[VacancyWorkFormat | Формат работы]]
+- [[GeneralEmploymentType | Тип занятости]]
+- [[GeneralWorkFormat|Формат работы]]
 - [[ProfileVideoEssay | Видео Эссе]]: да / нет
-- [[VacancyBonus | Бонусы]]
+- [[OrganizationBonus | Бонусы]]
 - [[VacancyAlreadyWorkinOn | Количество людей уже работающих на данной вакансии]]
 - [[VacancyTasks | Задачи]]
 - [[VacancyPreferences | Предпочтения]]
 - [[VacancyTeam | Команда]]
-- [[VacancyIndustry | Отрасль]]
+
+| Параметр                   | Тип                        | Описание          |
+| -------------------------- |:-------------------------- | ----------------- |
+| Дата публикации вакансии   | [[VacancyPublicationDate]] |                   |
+| Дата изменения вакансии    | [[VacancyUpdateDate]]      |                   |
+| VacancyIndustry            | [[GeneralIndustry]]        | Отрасль           |
+| VacancyRole                | [[GeneralRole]]            | Роль              |
+| VacancyTitle               | [[VacancyTitle]]           | Название вакансии |
+| VacancyGrade               | [[GeneralGrade]]           | Грейд вакансии    |
+| Область                    |                            |                   |
+| Язык                       |                            |                   |
+| Скиллы                     | [[GeneralSkill]]           |                   |
+| Зарплата                   | [[GeneralSalary]]          |                   |
+| Тип занятости              | [[GeneralEmploymentType]]  |                   |
+| Формат работы              | [[GeneralWorkFormat]]      |                   |
+| Готовность к командировкам | [[GeneralReadyToTrip]]     |                   |
+| Описание                   | [[VacancyDescription]]     |                   |
+| Бонусы                     | [[OrganizationBonus]]      |                   |
+| Команда                    |                            |                   |
+
 
 ## Статусы вакансии
 

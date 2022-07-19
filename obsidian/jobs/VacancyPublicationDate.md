@@ -4,4 +4,4 @@ alias: дата публикации вакансии
 ---
 # VacancyPublicationDate
 
-дд / мм / гггг
+YYYY-MM-DD hh:mm:ss
