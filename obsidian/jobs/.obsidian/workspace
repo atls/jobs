@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3c2cc811be644f37",
+        "id": "f9aa45b683824d08",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GeneralJobOffer.md",
+            "file": "SkillExpertise.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GeneralJobOffer.md",
+                "file": "SkillExpertise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GeneralJobOffer.md",
+                "file": "SkillExpertise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GeneralJobOffer.md"
+                "file": "SkillExpertise.md"
               }
             }
           }
@@ -138,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3c2cc811be644f37",
+  "active": "f9aa45b683824d08",
   "lastOpenFiles": [
+    "GeneralSkill.md",
     "§ Home.md",
-    "ProcessHiring.md",
     "GeneralJobOffer.md",
+    "ProcessHiring.md",
     "other/Features.md",
     "OrganizationTeam.md",
     "Organization.md",
     "Сценарии.md",
     "ApplicantProfile.md",
-    "ProfileVideoEssay.md",
-    "ProfilePreferences.md"
+    "ProfileVideoEssay.md"
   ]
 }
