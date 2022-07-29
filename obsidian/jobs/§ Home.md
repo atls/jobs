@@ -21,7 +21,7 @@ cssclass: dashboard, max
 - **General / [[About | О проекте]]**
 
 	- [[Mission | Миссия]]
-	- [[Монетизация]]
+	- [[Monetization]]
 	- [[Бизнес процессы]]
 	- Киллер фича
 	- [[Features]]
