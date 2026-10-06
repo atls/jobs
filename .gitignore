@@ -46,3 +46,4 @@ dist/
 # JetBrains files
 .idea
 *.iml
+.run/
